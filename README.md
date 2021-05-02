@@ -16,7 +16,7 @@ After you find the correct COM number, input it into the CSV database cell. You 
 ![Example](/Gifs/Edit-COM.gif "Example")
 
 ## Desktop Icon
-The provided Appcation .exe file needs to stay inside the main folder, however, you can create a shortcut to the .exe file by right clicking on it and selecting `create shortcut`.
+The provided Appcation .exe file needs to stay inside the main folder, however, you can create a shortcut to the .exe file by right clicking on it and selecting create shortcut.
 You can then drag the shortcut to your desktop. Example below.
 
 ![Example](/Gifs/Desktop-Icon.gif "Example")
