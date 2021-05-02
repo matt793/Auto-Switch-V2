@@ -27,4 +27,4 @@ Here's a short gif clip of the software automating the PuTTY opening, and some C
 ![Example](/Gifs/Demo.gif "Example")
 
 ## Special Thanks
-I would like to give a special thanks to <a href="https://github.com/sdixon5" title="sdixon5">@sdixon5</a> who helped my out with the for loop with in a for loop part of my code. Big fix. 
+I would like to give a special thanks to <a href="https://github.com/sdixon5" title="sdixon5">@sdixon5</a> who helped my out with the: "for loop with in a for loop" part of my code. Big fix. 
